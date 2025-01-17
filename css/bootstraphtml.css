@@ -1,0 +1,30 @@
+.head{
+    padding: 50px 0px;
+    background-color: chocolate;
+    text-align: center;
+}
+
+.menu{
+    background-color: aqua;
+    padding-bottom: 20px;
+}
+
+.content{
+    background-color: aquamarine;
+    padding-bottom: 20px;
+}
+
+.head-projects{
+    text-align: center;
+    background-color: tomato;
+    padding: auto;
+}
+
+.project{
+    padding: 30px;
+    text-align: center;
+    background-color: beige;
+    border: 6px;
+    border-color: white;
+    border-style: solid;
+}
